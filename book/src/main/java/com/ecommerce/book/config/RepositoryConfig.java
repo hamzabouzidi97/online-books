@@ -1,7 +1,7 @@
 package com.ecommerce.book.config;
 
 import javax.persistence.EntityManager;
-import javax.persistence.metamodel.Type;
+import javax.persistence.metamodel.Type; 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
